@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E2y2VbwcSbe5XK08Mm0ycDz36ol0xtlm7AxIBZrcDp4UyReEGg38ZxJldT8gHhDvzZYUdqKWWEWByQUkNiPlXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\CqrsMediatorPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

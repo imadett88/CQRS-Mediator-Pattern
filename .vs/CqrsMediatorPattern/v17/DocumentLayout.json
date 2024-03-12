@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\behaviros\\logginbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\behaviros\\logginbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\handlers\\cashinvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\handlers\\cashinvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\handlers\\getcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\handlers\\getcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\fakedatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\fakedatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\handlers\\emailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\handlers\\emailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\notification\\customeraddnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\notification\\customeraddnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\commandes\\addcustomercommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\commandes\\addcustomercommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\handlers\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\handlers\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\handlers\\addcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\handlers\\addcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\queries\\getcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\queries\\getcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\cqrsmediatorpattern\\cqrsmediatorpattern\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F3559D-22B5-4BF7-8416-80DB7F3FC6EB}|CqrsMediatorPattern\\CqrsMediatorPattern.csproj|solutionrelative:cqrsmediatorpattern\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashInvalidationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\CashInvalidationHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Handlers\\CashInvalidationHandler.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\CashInvalidationHandler.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Handlers\\CashInvalidationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:41:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogginBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Behaviros\\LogginBehavior.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Behaviros\\LogginBehavior.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Behaviros\\LogginBehavior.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Behaviros\\LogginBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:55:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Program.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:38:06.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\EmailHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Handlers\\EmailHandler.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\EmailHandler.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Handlers\\EmailHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:38:20.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerAddNotification.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Notification\\CustomerAddNotification.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Notification\\CustomerAddNotification.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Notification\\CustomerAddNotification.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Notification\\CustomerAddNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:36:49.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\FakeDataStore.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\FakeDataStore.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\FakeDataStore.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\FakeDataStore.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:48:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCustomerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\GetCustomerHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Handlers\\GetCustomerHandler.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\GetCustomerHandler.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Handlers\\GetCustomerHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:08:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCustomerCommande.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Commandes\\AddCustomerCommande.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Commandes\\AddCustomerCommande.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Commandes\\AddCustomerCommande.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Commandes\\AddCustomerCommande.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:33:20.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:41:23.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCustomerByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\GetCustomerByIdHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Handlers\\GetCustomerByIdHandler.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\GetCustomerByIdHandler.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Handlers\\GetCustomerByIdHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:13:03.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetCustomerByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Queries\\GetCustomerByIdQuery.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Queries\\GetCustomerByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:51:49.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Customer.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Customer.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Customer.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:47:25.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCustomerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\AddCustomerHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Handlers\\AddCustomerHandler.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Handlers\\AddCustomerHandler.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Handlers\\AddCustomerHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:35:15.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetCustomersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Queries\\GetCustomersQuery.cs",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Queries\\GetCustomersQuery.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Queries\\GetCustomersQuery.cs",
+              "RelativeToolTip": "CqrsMediatorPattern\\Queries\\GetCustomersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:59:59.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CqrsMediatorPattern\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\CqrsMediatorPattern\\CqrsMediatorPattern\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CqrsMediatorPattern\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T08:39:56.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
